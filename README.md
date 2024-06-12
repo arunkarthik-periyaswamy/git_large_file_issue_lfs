@@ -1,4 +1,5 @@
 # Using Git LFS for Large Files
+[![Medium](https://img.shields.io/badge/Medium-Read%20Article-green?logo=medium&style=for-the-badge)](https://medium.com/@ArunKarthikPeriyaswamy/how-to-easily-push-large-files-to-github-using-git-lfs-7aa70fba03cc)
 
 ## Introduction
 Git LFS (Large File Storage) is an extension that helps manage large files in your Git repositories. Follow these steps to use Git LFS effectively:
