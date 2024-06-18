@@ -23,4 +23,5 @@ Step 3: Specify Large Files
 Create a .gitattributes file in your repository and add the following line to track all .zip files:
 *.zip filter=lfs diff=lfs merge=lfs -text
 
-Thank you
+
+Thank you!
