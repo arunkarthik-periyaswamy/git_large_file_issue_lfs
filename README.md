@@ -24,4 +24,4 @@ Create a .gitattributes file in your repository and add the following line to tr
 *.zip filter=lfs diff=lfs merge=lfs -text
 
 
-Thank you! Happy coding!
+Thank you!
